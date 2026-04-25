@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "265857342048",
+    "project_id": "blackid-4dac6",
+    "storage_bucket": "blackid-4dac6.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:265857342048:android:970f87a10baad26951c105",
+        "android_client_info": {
+          "package_name": "com.example.blackid"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAAuHAUEnLamlHJyGKxS3qZF008HlwRVgk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
